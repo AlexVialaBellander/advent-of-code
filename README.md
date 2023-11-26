@@ -1,4 +1,4 @@
-![Advent of Code](https://user-images.githubusercontent.com/42417723/206836342-68443b3f-d125-4645-90fd-7e199d7e3b34.jpg)
+![Advent of Code 2023](https://github.com/AlexVialaBellander/advent-of-code/assets/42417723/595e1388-0a7c-4e90-84e7-4adcb08c3306)
 
 
 # Stats
@@ -7,4 +7,4 @@ I have added some comments as well to give more context or mark something specia
 
 ```
       --------Part 1--------   --------Part 2--------  --------Comment--------
-  ```
+```
